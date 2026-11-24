@@ -1,0 +1,6 @@
+# Local Windows build output and runtime DLLs
+/*.exe
+/*.dll
+/bin/
+/obj/
+/.vs/
